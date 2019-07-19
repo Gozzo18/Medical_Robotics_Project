@@ -1,0 +1,1 @@
+Model of the probe in PID mode. It is possible to alternate between passive and active (torque/force) mode with PID by changing the variable "mode" (0 = passive, 1 = active) inside the script attached to shape Cuboid0, in the method sysCall_actuation().
