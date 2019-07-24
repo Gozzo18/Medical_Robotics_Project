@@ -1,0 +1,1 @@
+The script attached to the "Cuboid0" shape, reads the joint angles value from a .csv file and it assign them to every joint. Any .csv file NEED to be inserted inside the "V-REP_PRO_EDU..." folder.

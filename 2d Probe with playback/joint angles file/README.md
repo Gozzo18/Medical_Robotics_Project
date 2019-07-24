@@ -1,0 +1,1 @@
+The .m file is a matlab script used to read the .mat files containing angles and transforming them into .csv files for vrep
